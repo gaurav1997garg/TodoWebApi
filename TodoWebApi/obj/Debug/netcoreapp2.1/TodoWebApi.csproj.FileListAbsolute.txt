@@ -1,0 +1,16 @@
+C:\Users\gaugar\source\repos\TodoWebApi\TodoWebApi\bin\Debug\netcoreapp2.1\TodoWebApi.deps.json
+C:\Users\gaugar\source\repos\TodoWebApi\TodoWebApi\bin\Debug\netcoreapp2.1\TodoWebApi.runtimeconfig.json
+C:\Users\gaugar\source\repos\TodoWebApi\TodoWebApi\bin\Debug\netcoreapp2.1\TodoWebApi.runtimeconfig.dev.json
+C:\Users\gaugar\source\repos\TodoWebApi\TodoWebApi\bin\Debug\netcoreapp2.1\TodoWebApi.dll
+C:\Users\gaugar\source\repos\TodoWebApi\TodoWebApi\obj\Debug\netcoreapp2.1\TodoWebApi.csproj.CoreCompileInputs.cache
+C:\Users\gaugar\source\repos\TodoWebApi\TodoWebApi\obj\Debug\netcoreapp2.1\TodoWebApi.RazorAssemblyInfo.cache
+C:\Users\gaugar\source\repos\TodoWebApi\TodoWebApi\obj\Debug\netcoreapp2.1\TodoWebApi.RazorAssemblyInfo.cs
+C:\Users\gaugar\source\repos\TodoWebApi\TodoWebApi\obj\Debug\netcoreapp2.1\TodoWebApi.AssemblyInfoInputs.cache
+C:\Users\gaugar\source\repos\TodoWebApi\TodoWebApi\obj\Debug\netcoreapp2.1\TodoWebApi.AssemblyInfo.cs
+C:\Users\gaugar\source\repos\TodoWebApi\TodoWebApi\obj\Debug\netcoreapp2.1\TodoWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\gaugar\source\repos\TodoWebApi\TodoWebApi\bin\Debug\netcoreapp2.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\gaugar\source\repos\TodoWebApi\TodoWebApi\bin\Debug\netcoreapp2.1\Cosmos.CRTCompat.dll
+C:\Users\gaugar\source\repos\TodoWebApi\TodoWebApi\obj\Debug\netcoreapp2.1\TodoWebApi.csprojAssemblyReference.cache
+C:\Users\gaugar\source\repos\TodoWebApi\TodoWebApi\bin\Debug\netcoreapp2.1\TodoWebApi.pdb
+C:\Users\gaugar\source\repos\TodoWebApi\TodoWebApi\obj\Debug\netcoreapp2.1\TodoWebApi.dll
+C:\Users\gaugar\source\repos\TodoWebApi\TodoWebApi\obj\Debug\netcoreapp2.1\TodoWebApi.pdb
